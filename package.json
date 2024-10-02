@@ -1,0 +1,24 @@
+{
+  "name": "year-details",
+  "version": "1.0.0",
+  "description": "det the details of an specific year",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwaliShawon/year-details.git"
+  },
+  "keywords": [
+    "year",
+    "month",
+    "day"
+  ],
+  "author": "Owali Ullah Shawon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwaliShawon/year-details/issues"
+  },
+  "homepage": "https://github.com/OwaliShawon/year-details#readme"
+}
